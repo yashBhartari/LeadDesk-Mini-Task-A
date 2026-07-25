@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+//ENV file
+NEXT_PUBLIC_SUPABASE_URL=https://projectID.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your anon key
+
+
 First, run the development server:
 //ENV file data
 NEXT_PUBLIC_SUPABASE_URL=https:/ProjectID/.supabase.co
