@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 ## ENV file data
 NEXT_PUBLIC_SUPABASE_URL=https:/ProjectID/.supabase.co
+
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your anon key
 
 ```bash
